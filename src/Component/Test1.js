@@ -1,7 +1,7 @@
 const test1 = () => {
     return (
         <div>
-            This is test 1 branch Something
+            Something
         </div>
     )
 }
