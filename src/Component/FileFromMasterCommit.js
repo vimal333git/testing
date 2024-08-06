@@ -1,7 +1,11 @@
 const Commit = () => {
 
     const confilectCheck = () => {
-
+        return(
+            <span>
+                space
+            </span>
+        )
     }
 
     return (
