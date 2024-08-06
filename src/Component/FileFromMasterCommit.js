@@ -1,9 +1,14 @@
-const Commit=()=>{
-    return(
+const Commit = () => {
+
+    const confilectCheck = () => {
+
+    }
+
+    return (
         <div>
             1) first line in test 2 brach
 
-            changes in test 1 
+            changes in test 1
 
             lorem ipusum something
         </div>
