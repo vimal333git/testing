@@ -11,7 +11,7 @@ const Commit=()=>{
             changes in test 1 
 
             lorem ipusum something
->>>>>>> origin/test-2
+>>>>>>> origin/test-2   
         </div>
     )
 }
