@@ -1,5 +1,19 @@
+<<<<<<< HEAD
 const Commit=()=>{
     return(
+=======
+const Commit = () => {
+
+    const confilectCheck = () => {
+        return(
+            <span>
+                space graft
+            </span>
+        )
+    }
+
+    return (
+>>>>>>> origin/test-2
         <div>
             1) first line in test 2 brach
 
