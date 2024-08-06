@@ -3,7 +3,7 @@ const Commit = () => {
     const confilectCheck = () => {
         return(
             <span>
-                space
+                space graft
             </span>
         )
     }
